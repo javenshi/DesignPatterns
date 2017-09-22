@@ -2,7 +2,7 @@ package demo1;
 /**
  * 
  * @author javen.shi@centling.com
- * 2017年9月22日下午3:32:16
+ * 2017年9月22日下午3:32:16 
  *线程的两种创建方式
  */
 public class DemoTwo extends Thread {

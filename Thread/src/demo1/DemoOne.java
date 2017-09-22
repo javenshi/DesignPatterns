@@ -2,7 +2,7 @@ package demo1;
 /**
  * 
  * @author javen.shi@centling.com
- * 2017年9月22日下午3:11:43
+ * 2017年9月22日下午3:11:43 
  *测试线程的可见性
  */
 public class DemoOne {

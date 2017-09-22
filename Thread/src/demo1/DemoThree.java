@@ -2,7 +2,7 @@ package demo1;
 /**
  * 
  * @author javen.shi@centling.com
- * 2017年9月22日下午4:02:46
+ * 2017年9月22日下午4:02:46 
  *线程的wait和notify方法
  */
 public class DemoThree {
